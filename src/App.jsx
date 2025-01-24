@@ -2,11 +2,11 @@ import React from "react";
 import Counter from "./components/counter.jsx";
 import UserList from "./components/UserList.jsx";
 import WindowResize from "./components/WindowResize.jsx";
-import Timer from "./components/Timer";
-import Form from "./components/Form";
-import ThemeSwitcher from "./components/ThemeSwitcher";
-import OnlineStatus from "./components/OnlineStatus";
-import Search from "./components/Search";
+import Timer from "./components/Timer.jsx";
+import Form from "./components/Form.jsx";
+import ThemeSwitcher from "./components/ThemeSwitcher.jsx";
+import OnlineStatus from "./components/OnlineStatus.jsx";
+import Search from "./components/Search.jsx";
 
 function App() {
   return (
